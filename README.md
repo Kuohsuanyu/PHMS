@@ -14,6 +14,14 @@
 已架設雲端伺服器
 透過AWS搭建網頁
 http://57.181.38.8/animal/
+
+使用者帳號密碼為
+username : 12
+password : 123
+管理者帳號密碼為
+username : bob
+password : andyyoyo430
+
 使用的基礎為
 ec2、eds、vpc、route
 利用
